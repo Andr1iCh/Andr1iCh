@@ -19,9 +19,10 @@ A complete bare-metal driver library for STM32F411RE.
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-B02933?style=for-the-badge&logo=verilog&logoColor=white) |
-| **Embedded** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white) ![UART/SPI/I2C](https://img.shields.io/badge/SPI%20%2F%20UART-Run-orange?style=for-the-badge) |
+| **Protocols** | ![SPI](https://img.shields.io/badge/SPI-FFD700?style=for-the-badge&logo=microchip&logoColor=black) ![I2C](https://img.shields.io/badge/I2C-2ECC71?style=for-the-badge&logo=microchip&logoColor=white) ![UART](https://img.shields.io/badge/UART-E67E22?style=for-the-badge&logo=microchip&logoColor=white) |
+| **Embedded** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ARM](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Doxygen](https://img.shields.io/badge/Doxygen-2C415D?style=for-the-badge&logo=doxygen&logoColor=white) |
-| **Hardware** | Logic Analyzers (Saleae), Multimeters, Oscilloscopes |
+| **Hardware** | Logic Analyzers, Multimeters, Oscilloscopes |
 
 ---
 
