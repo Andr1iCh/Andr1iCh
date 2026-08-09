@@ -1,13 +1,13 @@
-# Hi there, I'm Andrii! 👋
+# Hi there, I'm Andrii! 
 
 I am a Radio Engineering student passionate about Bare-metal C, Low-level Driver Development. My goal is to master the interaction between hardware and software.
 
 ---
 
-### 🚀 What I'm working on
+### What I'm working on
 Currently, I am developing a **Hardware Abstraction Layer** and **Drivers** from scratch (no HAL/StdPeriph) for STM32 microcontrollers.
 
-#### 🏆 Featured Project: [STM32F411 Driver Library](https://github.com/Andr1iCh/STM32F411_Driver_Library)
+#### Featured Project: [STM32F411 Driver Library](https://github.com/Andr1iCh/STM32F411_Driver_Library)
 A complete bare-metal driver library for STM32F411RE.
 * **Core:** Custom GPIO & SPI drivers implementation.
 * **Docs:** Full [Doxygen Documentation](https://andr1ich.github.io/STM32F411_Driver_Library/).
@@ -26,14 +26,6 @@ A complete bare-metal driver library for STM32F411RE.
 
 ---
 
-### 🌱 Learning Roadmap
-- [x] Bare-metal GPIO/SPI Drivers
-- [ ] USART & I2C Drivers Implementation
-- [ ] FreeRTOS integration
-- [ ] Embedded Linux Kernel modules
-
----
-
-### 📫 Connect with me
+### Connect with me
 * **Focus:** Open to internship opportunities in Embedded Systems.
 * **Email:** (chukhlieb.andrii@gmail.com)
